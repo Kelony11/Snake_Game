@@ -14,7 +14,7 @@ This was one of the games i enjoyed planning growing up.
 - Simple and Easy-to_Understand: I created the game so that it is situatable for all age groups. It also uses the up-down-left-right keys on your keyboard to play. 
 
 🟢 ** TECHNICAL STACK ** 🧱
-- PYTHON including it's libraries and function
+- PYTHON: I utilized python including it's libraries like Turtle (To display the game to your console) and various functions to detect collision against the wall and food. 
 
 
 
