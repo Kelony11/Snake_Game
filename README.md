@@ -8,13 +8,13 @@ So, in simplier terms, the snake starts as an two inch rectangle and grow in siz
 This was one of the games i enjoyed planning growing up. 
 
 # KEY FEATURES 🔑
-🟢 Adjustable Screen: Applied a scale algorithm to dynamically update resolutions, ensuring a seamless gaming experience across various devices and screen sizes.
-🟢 Score Tracker: I used the text file to store the user's highest score and diplay it whenever the user chooses to play again, so that it the users can be able to beat their
+- 🟢 Adjustable Screen: Applied a scale algorithm to dynamically update resolutions, ensuring a seamless gaming experience across various devices and screen sizes.
+- 🟢 Score Tracker: I used the text file to store the user's highest score and diplay it whenever the user chooses to play again, so that it the users can be able to beat their
   highest score. 
-🟢 Simple and Easy-to_Understand: I created the game so that it is situatable for all age groups. It also uses the up-down-left-right keys on your keyboard to play. 
+- 🟢 Simple and Easy-to_Understand: I created the game so that it is situatable for all age groups. It also uses the up-down-left-right keys on your keyboard to play. 
 
 # TECHNICAL STACK 🧱
-🟢 PYTHON: I utilized python including it's libraries like Turtle (To display the game to your console) and various functions to detect collision against the wall and food. 
+- 🟢 PYTHON: I utilized python including it's libraries like Turtle (To display the game to your console) and various functions to detect collision against the wall and food. 
 
 
 
