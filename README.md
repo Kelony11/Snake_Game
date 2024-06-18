@@ -1,6 +1,6 @@
-🟢 SNAKE GAME  🐍
+🟢 # SNAKE GAME  🐍
 
-🟢 PROJECT OVERVIEW 🚀🚀🚀
+🟢 # PROJECT OVERVIEW 🚀🚀🚀
 
 This Python based snake game is a recreation of my favorite childhood game played on Nokia 3310. 
 It's a classic arcade snake game, introducing a pioneering snake class that grows through an advanced array advanced array shifting and traversal algorithm.
